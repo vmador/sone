@@ -1,6 +1,6 @@
 {
-    "name": "Sone",
-    "short_name": "Sone",
+    "name": "sone",
+    "short_name": "sone",
     "description": "Sell Unique Music Experiences",
     "start_url": "/sone/",
     "scope": "/sone/",
