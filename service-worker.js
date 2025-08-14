@@ -1,4 +1,4 @@
-const CACHE_NAME = 'Sone-pwa-cache-v2';
+const CACHE_NAME = 'sone-pwa-cache-v2';
 const urlsToCache = [
     '/sone/',
     '/sone/index.html',
